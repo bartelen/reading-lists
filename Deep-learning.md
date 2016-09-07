@@ -1,5 +1,6 @@
 # Deep learning
-This reading list offers a collection of tutorials and courses on the usage of deep learning for image analysis
+This reading list offers a collection of tutorials and courses on the usage of deep learning for image analysis.
+Other reading list are available on the [main page](README.md)
 
 ## The must read:
 *	CS231n, CNN for visual recognition, Stanford, Andrey Karpathy
